@@ -1,5 +1,5 @@
 # HierarchicalSTEM
-Code for MCMC, simulation, and figures for spatial Bayesian hierarchical model accounting for measurement error in Scanning Transmission Electron Microscope (STEM) Images as described in "Accounting for Location Measurement Error in Atomic Resolution Images of Materials".
+Code for MCMC, simulation, and figures for spatial Bayesian hierarchical model accounting for measurement error in Scanning Transmission Electron Microscope (STEM) Images as described in the 2019 article "Accounting for Location Measurement Error in Atomic Resolution Images of Materials".
 
 ## File Descriptions
 * AtomInfo.RData - PMN STEM Image data
